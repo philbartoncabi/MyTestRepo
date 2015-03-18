@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[MyTestApp.csproj]
+SCC_Aux_Path = "\\sourcemgt1\SourceSafe"
+SCC_Project_Name = "$/MarkLogicSandbox/PB/MyTestRepo/MyTestApp/MyTestApp/MyTestApp", WEFHAAAA
